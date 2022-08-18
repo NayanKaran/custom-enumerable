@@ -1,6 +1,6 @@
 # custom-enumerable
 
-Example of user defined enumerables in Ruby.
+Example of user defined enumerable in Ruby.
 
 ## Built With
 
